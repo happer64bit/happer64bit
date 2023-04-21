@@ -1,10 +1,9 @@
 # Hello I am Happer 👋
 <img src="https://komarev.com/ghpvc/?username=happer64bit&style=flat-square&color=blue" alt=""/>
 I am a student from Myanmar. I like coding at my free time
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Happer64Bit&theme=transparent)](https://git.io/streak-stats)  
-</div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Happer64Bit&theme=transparent)](https://git.io/streak-stats)  
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit)](https://github.com/happer64bit/github-readme-stats)
 
 # Favourite
