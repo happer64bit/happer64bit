@@ -3,6 +3,7 @@
 I am a student from Myanmar. I like coding at my free time
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Happer64Bit&theme=transparent)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit)](https://github.com/happer64bit/github-readme-stats)
 
 # Favourite
 <div>
@@ -18,4 +19,3 @@ I am a student from Myanmar. I like coding at my free time
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit)](https://github.com/happer64bit/github-readme-stats)
