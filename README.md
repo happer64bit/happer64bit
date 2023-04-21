@@ -16,6 +16,6 @@ I am a student from Myanmar. I like coding at my free time
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-  ![https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit](Img)
+<iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit"></iframe>
 
 </div>
