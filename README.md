@@ -18,4 +18,4 @@ I am a student from Myanmar. I like coding at my free time
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=happer64bit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit)](https://github.com/happer64bit/github-readme-stats)
