@@ -1,6 +1,6 @@
 # Hello I am Happer 👋
 <img src="https://komarev.com/ghpvc/?username=happer64bit&style=flat-square&color=blue" alt=""/>
-I am a student from Myanmar. I like coding at my free time
+I am a student from Myanmar. I do coding at my free time
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Happer64Bit&theme=transparent)](https://git.io/streak-stats)  
 <br />
