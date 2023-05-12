@@ -7,7 +7,7 @@ I am a student from Myanmar. I do coding at my free time
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit)](https://github.com/happer64bit/github-readme-stats)
 
 # Favourite
-<div>
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
