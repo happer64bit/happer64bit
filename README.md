@@ -8,7 +8,8 @@ I am a hight school student from Myanmar. I do coding at my free time
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit)](https://github.com/happer64bit/github-readme-stats)
 
-# Favourite
+# Favorite Technologies
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -22,3 +23,6 @@ I am a hight school student from Myanmar. I do coding at my free time
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br>
+Feel free to explore my GitHub repositories to see some of the projects I've worked on using these technologies.
+If you have any questions or want to collaborate on a project, feel free to reach out to me. Happy coding! 😄
