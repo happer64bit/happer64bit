@@ -1,0 +1,13 @@
+[homepage]
+source = "https://github.com/happer64bit/homepage"
+branch = "dev"
+
+[CleanTab]
+source = "https://github.com/happer64bit/CleanTab"
+
+[ginz]
+source = "https://github.com/happer64bit/ginz"
+branch = "dev"
+
+[wspace]
+source = "https://github.com/happer64bit/wspace"
