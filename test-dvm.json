@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "icon": "https://github.com/happer64bit/Dynamic-Version-Manager/blob/main/assets/logo/icon.png?raw=true",
+        "name": "Dynamic Version Manager",
+        "description": "Switch Version Between Applications And Programs",
+        "supportedOS": [
+            "ANDROID"
+        ],
+        "author": {
+            "name": "Happer",
+            "email": "happer64bit@gmail.com",
+            "website": "https://happer64bit.vercel.app"
+        },
+        "source_code": "https://github.com/happer64bit/Dynamic-Version-Manager"
+    },
+    "list": [
+        {
+            "version": "DEV-1.0",
+            "type": "development",
+            "properties": {
+                "isInstallable": true
+            },
+            "downloadUrl": "https://github.com/happer64bit/Dynamic-Version-Manager/releases/dynamic_version_manager-dev-1.0.apk"   
+        }
+    ]
+}
