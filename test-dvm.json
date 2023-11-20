@@ -1,7 +1,7 @@
 {
     "metadata": {
         "icon": "https://github.com/happer64bit/Dynamic-Version-Manager/blob/main/assets/logo/icon.png?raw=true",
-        "name": "Dynamic Version Manager (Android)",
+        "name": "Dynamic Version Manager",
         "description": "Switch Version Between Applications And Programs",
         "supportedOS": [
             "ANDROID"
