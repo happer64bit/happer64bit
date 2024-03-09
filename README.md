@@ -37,7 +37,7 @@ learning:
     <a href="https://fb.com/wintkhantlin" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="wint khant lin" height="30" width="40" /></a>
-    <a href="/https://happer64bit.vercel.app/rss.xml" target="blank"><img align="center"
+    <a href="https://happer64bit.vercel.app/rss.xml" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
             alt="https://happer64bit.vercel.app/rss.xml" height="30" width="40" /></a>
 </p>
