@@ -8,7 +8,7 @@ A Lifeless College Student From Myanmar
 
 # 📊 GitHub Stats
 
-  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![My Steaks](https://cool-github-readme-api.vercel.app/steaks/<username>?theme=light&size=200?border=black) |
+  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=happer64bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![My Steaks](https://cool-github-readme-api.vercel.app/steaks/happer64bit?theme=light&size=200?border=black) |
 |-----|---------|
 
 ---
