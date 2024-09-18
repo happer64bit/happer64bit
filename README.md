@@ -1,6 +1,6 @@
 # 💫 A Lifeless College Student From Myanmar
 
-> Everyday's the same
+> Everyday's the same -  *Wint Khant Lin*
 
 ![](https://visitcount.itsvg.in/api?id=happer64bit&icon=0&color=0)
 
