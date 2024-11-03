@@ -22,46 +22,43 @@
     <h3>My Tech Stacks 💻🧑‍🔬 </h3>
   </summary>
   
-  ```json
-  {
-  "Frontend Frameworks": [
-    "React",
-    "Next.JS",
-    "Remix.JS",
-    "Svelte",
-    "SvelteKit"
-  ],
-  "Backend Frameworks": [
-    "Django",
-    "PHP",
-    "Nest.JS",
-    "Express.JS",
-    "rocket.rs (Rust)",
-    "Fiber (Go)"
-  ],
-  "Database Tools": [
-    "Prisma",
-    "Drizzle",
-    "MongoDB",
-    "SQLite",
-    "PostgreSQL"
-  ],
-  "Languages": [
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "Dart",
-    "Rust",
-    "Go",
-    "Kotlin"
-  ],
-  "CSS Frameworks": [
-    "TailwindCSS"
-  ],
-  "UI Development": [
-    "Flutter",
-    "Egui (Rust)"
-  ]
-}
+  ```yaml
+  Frontend-Frameworks:
+  - React
+  - Next.JS
+  - Remix.JS
+  - Svelte
+  - SvelteKit
+
+Backend-Frameworks:
+  - Django
+  - PHP
+  - Nest.JS
+  - Express.JS
+  - rocket.rs (Rust)
+  - Fiber (Go)
+
+Database-Tools:
+  - Prisma
+  - Drizzle
+  - MongoDB
+  - SQLite
+  - PostgreSQL
+
+Languages:
+  - TypeScript
+  - JavaScript
+  - Python
+  - Dart
+  - Rust
+  - Go
+  - Kotlin
+
+CSS-Frameworks:
+  - TailwindCSS
+
+UI-Development:
+  - Flutter
+  - Egui (Rust)
   ```
 </details>
