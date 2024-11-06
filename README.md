@@ -1,6 +1,6 @@
 # 💫 Hi, I am Wint Khant Lin <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-![](https://visitcount.itsvg.in/api?id=happer64bit&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=happer64bit)
 
 ## 🤔 About Me
 
