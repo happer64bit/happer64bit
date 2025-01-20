@@ -13,7 +13,7 @@
 
 * I am currently _generating software ideas_ 🔨
 * I am currently Learning...
-  * Nest.JS - I love typed backend framework with battery-included. 😍
+  * Spring Boot - I don't like Java but this. 😍
   * Rust - For Higher Performance Approach and Memory Safety. 🔥
   * Elixir - I should reconsider this. 😿
 
