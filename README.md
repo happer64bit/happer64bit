@@ -15,7 +15,7 @@
 * I am currently Learning...
   * Spring Boot - I don't like Java but this. 😍
   * Rust - For Higher Performance Approach and Memory Safety. 🔥
-  * Elixir - I should reconsider this. 😿
+  * Golang - Oh Yeahhh, Performance and Councurrency 😿
 
 <details open>
   <summary>
@@ -26,7 +26,7 @@
   Frontend-Frameworks:
   - React
   - Next.JS
-  - Remix.JS
+  - Solid.JS
   - Svelte
   - SvelteKit
 
@@ -35,7 +35,7 @@ Backend-Frameworks:
   - PHP
   - Nest.JS
   - Express.JS
-  - rocket.rs (Rust)
+  - Elysia.JS (Bun)
   - Fiber (Go)
 
 Database-Tools:
@@ -50,15 +50,10 @@ Languages:
   - JavaScript
   - Python
   - Dart
-  - Rust
+  - Java
   - Go
-  - Kotlin
 
 CSS-Frameworks:
   - TailwindCSS
-
-UI-Development:
-  - Flutter
-  - Egui (Rust)
   ```
 </details>
