@@ -36,7 +36,7 @@ Backend-Frameworks:
   - Nest.JS
   - Express.JS
   - Elysia.JS (Bun)
-  - Fiber (Go)
+  - Fiber, Gin (Go)
 
 Database-Tools:
   - Prisma
