@@ -14,7 +14,6 @@
 * I am currently _generating software ideas_ 🔨
 * I am currently Learning...
   * Spring Boot - I don't like Java but this. 😍
-  * Rust - For Higher Performance Approach and Memory Safety. 🔥
   * Golang - Oh Yeahhh, Performance and Councurrency 😿
 
 <details open>
