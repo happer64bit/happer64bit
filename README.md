@@ -30,12 +30,9 @@
   - SvelteKit
 
 Backend-Frameworks:
-  - Django
-  - PHP
-  - Nest.JS
+  - Hono
   - Express.JS
-  - Elysia.JS (Bun)
-  - Fiber, Gin (Go)
+  - Gin (Go)
 
 Database-Tools:
   - Prisma
@@ -48,8 +45,6 @@ Languages:
   - TypeScript
   - JavaScript
   - Python
-  - Dart
-  - Java
   - Go
 
 CSS-Frameworks:
