@@ -4,7 +4,7 @@
 
 ## 🤔 About Me
 
-* A College Student From :🇲🇲
+* A College Student From 🇲🇲
 * Full Stack Developer
 * Love UI/UX Designing
 * Love to Optimize Applications
