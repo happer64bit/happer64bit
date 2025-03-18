@@ -1,53 +1,31 @@
-# 💫 Hi, I am Wint Khant Lin <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# 💫 This is Wint Khant Lin on GitHub <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
 
 ## 🤔 About Me
 
-* A College Student From 🇲🇲
-* Full Stack Developer
-* Love UI/UX Designing
-* Love to Optimize Applications
+I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. I am one of those performance nerds who love optimizing websites and server.
+
+## 🛣️ Roadmap for 2025
+
+* Object Oritented Programming - I'll master object-oriented principles and best practices.
+* Design Pattern - I will learn and apply common design patterns for my codes.
+* NeoVim - Cmom, let's write code blezzingly fast
+* Refactoring - Improve code quality through effective.
+* Data Structure and Algorithm - I have to level up my problem solving skills.
 
 ## ⚙️ Currently Working Wtih
 
+* I am okay with `.js`, `.ts`, `.py`, `.html`, `.css`, `.tsx`, `.go`
 * I am currently _generating software ideas_ 🔨
 * I am currently Learning...
-  * Spring Boot - I don't like Java but this. 😍
+  * Nest.JS - YESSS, Modular Architecture
   * Golang - Oh Yeahhh, Performance and Councurrency 😿
 
-<details open>
-  <summary>
-    <h3>My Tech Stacks 💻🧑‍🔬 </h3>
-  </summary>
-  
-  ```yaml
-  Frontend-Frameworks:
-  - React
-  - Next.JS
-  - Solid.JS
-  - Svelte
-  - SvelteKit
+## Find Me On 🔛
 
-Backend-Frameworks:
-  - Hono
-  - Express.JS
-  - Gin (Go)
-
-Database-Tools:
-  - Prisma
-  - Drizzle
-  - MongoDB
-  - SQLite
-  - PostgreSQL
-
-Languages:
-  - TypeScript
-  - JavaScript
-  - Python
-  - Go
-
-CSS-Frameworks:
-  - TailwindCSS
-  ```
-</details>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://leetcode.com/u/happer64bit/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"></a>
+  <a href="https://facebook.com/wintkhantlin" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"></a>
+ <a href="https://wintkhantlin.vercel.app/rss.xml"><img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="RSS"/></a>
+</div>
