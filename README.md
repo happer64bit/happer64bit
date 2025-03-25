@@ -21,6 +21,7 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * I am currently Learning...
   * Nest.JS - YESSS, Modular Architecture
   * Golang - Oh Yeahhh, Performance and Councurrency 😿
+  * Software Design and Architecture - I need to write clean code with better software architecture 😍
 
 ## Find Me On 🔛
 
