@@ -1,0 +1,34 @@
+name: Example Template
+title: "Example Template: "
+description: Example Template from GitHub Issue Template Generator
+labels:
+  - example
+body:
+  - type: markdown
+    attributes:
+      value: "# This is Just a Test Configuration"
+  - type: textarea
+    id: textarea-1
+    attributes:
+      label: Anything
+      description: Anything Textarea
+      value: "**Hello World**"
+  - type: input
+    id: input-2
+    attributes:
+      label: Name
+      placeholder: "Ex: John"
+  - type: dropdown
+    id: dropdown-3
+    attributes:
+      label: Type
+      options:
+        - Bug
+        - Future Request
+  - type: checkboxes
+    id: checkboxes-4
+    attributes:
+      label: IDK CHECKBOX
+      options:
+        - label: YES
+        - label: NO
