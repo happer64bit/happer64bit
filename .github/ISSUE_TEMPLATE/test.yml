@@ -30,5 +30,5 @@ body:
     attributes:
       label: IDK CHECKBOX
       options:
-        - label: YES
-        - label: NO
+        - label: "YES"
+        - label: "NO"
