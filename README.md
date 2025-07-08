@@ -11,7 +11,6 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * Object Oritented Programming - I'll master object-oriented principles and best practices.
 * Design Pattern - I will learn and apply common design patterns for my codes.
 * NeoVim - Cmom, let's write code blezzingly fast
-* Refactoring - Improve code quality through effective.
 * Data Structure and Algorithm - I have to level up my problem solving skills.
 
 ## ⚙️ Currently Working Wtih
@@ -19,8 +18,7 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * I am okay with `.js`, `.ts`, `.py`, `.html`, `.css`, `.tsx`, `.go`
 * I am currently _generating software ideas_ 🔨
 * I am currently Learning...
-  * Nest.JS - YESSS, Modular Architecture
-  * Golang - Oh Yeahhh, Performance and Councurrency 😿
+  * Clean Code - Oh Yeahhh, My Colleagues Has To Under The Code I Wrote
   * Software Design and Architecture - I need to write clean code with better software architecture 😍
 
 ## Find Me On 🔛
