@@ -1,4 +1,4 @@
-# 💫 This is Wint Khant Lin on GitHub <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# 💫 わたしはハッパーです。 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
 
