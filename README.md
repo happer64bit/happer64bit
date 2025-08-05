@@ -12,6 +12,7 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * Design Pattern - I will learn and apply common design patterns for my codes.
 * NeoVim - Cmom, let's write code blezzingly fast
 * Data Structure and Algorithm - I have to level up my problem solving skills.
+* Japanese (N5 + N4)
 
 ## ⚙️ Currently Working Wtih
 
@@ -20,6 +21,7 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * I am currently Learning...
   * Clean Code - Oh Yeahhh, My Colleagues Has To Under The Code I Wrote
   * Software Design and Architecture - I need to write clean code with better software architecture 😍
+  * N5 - Japanese Language
 
 ## Find Me On 🔛
 
