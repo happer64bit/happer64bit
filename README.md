@@ -28,5 +28,5 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://leetcode.com/u/happer64bit/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"></a>
   <a href="https://facebook.com/wintkhantlin" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"></a>
- <a href="https://wintkhantlin.vercel.app/rss.xml"><img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="RSS"/></a>
-</div>
+<!--  <a href="https://wintkhantlin.vercel.app/rss.xml"><img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="RSS"/></a>
+</div> -->
