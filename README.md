@@ -1,10 +1,10 @@
-# 💫 わたしはハッパーです。 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# 💫 私は ウィン・カント・リン です <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
 
 ## 🤔 About Me
 
-I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. I am one of those performance nerds who love optimizing websites and server.
+I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. I am one of those performance nerds who love optimizing websites and server. (コンピューターサイエンスの 学生です。)
 
 ## 🛣️ Roadmap for 2025
 
