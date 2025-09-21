@@ -1,4 +1,4 @@
-# 💫 私は ウィン・カント・リン です <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# 💫 私は ハッパー です
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
 
