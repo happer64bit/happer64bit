@@ -12,7 +12,7 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * Design Pattern - I will learn and apply common design patterns for my codes.
 * NeoVim - Cmom, let's write code blezzingly fast
 * Data Structure and Algorithm - I have to level up my problem solving skills.
-* Japanese (N5 + N4)
+* Japanese (N5)
 
 ## ⚙️ Currently Working Wtih
 
