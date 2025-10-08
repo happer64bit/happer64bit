@@ -4,7 +4,7 @@
 
 ## 🤔 About Me
 
-I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. I am one of those performance nerds who love optimizing websites and server. (コンピューターサイエンスの 学生です。)
+I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. コンピューターサイエンスの 学生です。Love Learning Japanese and Coding.
 
 ## 🛣️ Roadmap for 2025
 
