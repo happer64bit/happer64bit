@@ -1,4 +1,4 @@
-# 💫 私は ハッパー です
+# 💫 ハッパー です
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
 
