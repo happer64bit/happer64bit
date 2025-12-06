@@ -6,13 +6,12 @@
 
 I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. コンピューターサイエンスの 学生です。Love Learning Japanese and Coding.
 
-## 🛣️ Roadmap for 2025
+## 🛣️ Roadmap
 
-* Object Oritented Programming - I'll master object-oriented principles and best practices.
 * Design Pattern - I will learn and apply common design patterns for my codes.
 * NeoVim - Cmom, let's write code blezzingly fast
 * Data Structure and Algorithm - I have to level up my problem solving skills.
-* Japanese (N5)
+* Statistics, Probability and Calculus - I need them
 
 ## ⚙️ Currently Working Wtih
 
