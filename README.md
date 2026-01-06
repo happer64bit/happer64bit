@@ -1,10 +1,6 @@
-# 💫 ハッパー です
+I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. コンピューターサイエンスの 学生です。Love Learning Japanese and Coding. 
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
-
-## 🤔 About Me
-
-I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. コンピューターサイエンスの 学生です。Love Learning Japanese and Coding.
 
 ## 🛣️ Roadmap
 
