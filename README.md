@@ -18,9 +18,8 @@ I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-
 * I am okay with `.js`, `.ts`, `.py`, `.html`, `.css`, `.tsx`, `.go`
 * I am currently _generating software ideas_ 🔨
 * I am currently Learning...
-  * Clean Code - Oh Yeahhh, My Colleagues Has To Under The Code I Wrote
+  * Clean Code - Oh Yeahhh, My Colleagues Has To Understand The Code I Wrote
   * Software Design and Architecture - I need to write clean code with better software architecture 😍
-  * N5 - Japanese Language
 
 ## Find Me On 🔛
 
