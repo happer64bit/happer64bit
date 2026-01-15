@@ -1,4 +1,4 @@
-I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. コンピューターサイエンスの 学生です。Love Learning Japanese and Coding. 
+I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. 
 
 ![](https://komarev.com/ghpvc/?username=happer64bit)
 
