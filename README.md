@@ -1,6 +1,11 @@
 I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. 
 
-![](https://komarev.com/ghpvc/?username=happer64bit)
+## 🏆 Achievement
+
+* Winner of GUSTO Technical Competation
+* Winner of Let’s Tech 2026 — Agentic Edition
+
+This experience strengthened my interest in building intelligent, practical, and impactful software solutions.
 
 ## 🛣️ Roadmap
 
