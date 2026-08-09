@@ -1,26 +1,47 @@
-I am a Computer Enginnering student from 🇲🇲. I am currenly okay with Full-Stack Development. But I am currently looking forward to become a Software Engineer. 
+# Hey, I'm Wint Khant Lin 👋
 
-## 🏆 Achievement
+I'm a Computer Engineering student from 🇲🇲 Myanmar.
 
-* Winner of GUSTO Technical Competation
-* Winner of Let’s Tech 2026 — Agentic Edition
+I'm currently comfortable with **Full-Stack Development**, but my goal is to grow into a **Software Engineer** — learning not only how to build things, but also how to design them properly.
 
-This experience strengthened my interest in building intelligent, practical, and impactful software solutions.
+I enjoy building things, experimenting with new ideas, and learning how software works under the hood.
 
-## 🛣️ Roadmap
+## 🏆 Achievements
 
-* Design Pattern - I will learn and apply common design patterns for my codes.
-* NeoVim - Cmom, let's write code blezzingly fast
-* Data Structure and Algorithm - I have to level up my problem solving skills.
-* Statistics, Probability and Calculus - I need them
+* 🥈 **First Runner-Up** — GUSTO Innovation Awards & Forum 2026 · August
+* * 🥇 **Winner** — Let's Tech 2026: Agentic Edition · July
+* 🥇 **Winner** — GUSTO Technical Competition 2026 · January
 
-## ⚙️ Currently Working Wtih
+These experiences made me even more interested in building **useful, intelligent, and practical software**.
 
-* I am okay with `.js`, `.ts`, `.py`, `.html`, `.css`, `.tsx`, `.go`
-* I am currently _generating software ideas_ 🔨
-* I am currently Learning...
-  * Clean Code - Oh Yeahhh, My Colleagues Has To Understand The Code I Wrote
-  * Software Design and Architecture - I need to write clean code with better software architecture 😍
+## 🛣️ What I'm Learning
+
+I'm currently working on improving my software engineering fundamentals:
+
+* 🧩 **Design Patterns** — Learning when and how to use them.
+* ⚡ **NeoVim** — Come on, let's write code *blazingly fast*.
+* 🧠 **Data Structures & Algorithms** — Getting better at problem solving.
+* 📐 **Statistics, Probability & Calculus** — Building a stronger mathematical foundation.
+* 🏗️ **Software Design & Architecture** — Learning how to design better software.
+
+## ⚙️ What I Work With
+
+I'm comfortable working with:
+
+`JavaScript` · `TypeScript` · `Python` · `Go` 
+
+Right now, I'm also:
+
+* 🔨 Coming up with and building new software ideas
+* 🧼 Learning **Clean Code**
+* 🏗️ Learning **Software Design & Architecture**
+* 🤖 Exploring **AI and Agentic Systems**
+
+## 🎯 My Goal
+
+I want to become a **Software Engineer** who can take an idea, design it properly, build it, and keep improving it.
+
+Still learning. Still building. Still breaking things. 😅
 
 ## Find Me On 🔛
 
