@@ -9,7 +9,7 @@ I enjoy building things, experimenting with new ideas, and learning how software
 ## 🏆 Achievements
 
 * 🥈 **First Runner-Up** — GUSTO Innovation Awards & Forum 2026 · August
-* * 🥇 **Winner** — Let's Tech 2026: Agentic Edition · July
+* 🥇 **Winner** — Let's Tech 2026: Agentic Edition · July
 * 🥇 **Winner** — GUSTO Technical Competition 2026 · January
 
 These experiences made me even more interested in building **useful, intelligent, and practical software**.
